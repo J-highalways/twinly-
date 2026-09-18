@@ -15,5 +15,5 @@ An AI system (agent / RAG app / LLM pipeline) built to be fully transparent — 
 
 ## Tech stack
 
-- Google's Gemini-2.3-flash
+- Google's Gemini-2.5-flash
 - python
