@@ -14,7 +14,7 @@ from pypdf import PdfReader
 # requested. It was pasted in plain text earlier in this project's chat
 # history, so treat it as already public — rotate it in Google AI Studio
 # whenever you get a chance, and swap the new one in below.
-API_KEY = "AQ.Ab8RN6IPHcrzeo46HisEqe-iuGrptSmRY_RR92jvQ7522121QA"
+API_KEY = "    YOUR_API_KEY"
 
 GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent"
 
